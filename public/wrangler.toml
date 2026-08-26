@@ -1,0 +1,11 @@
+name = "safetyplace"
+compatibility_date = "2024-11-01"
+
+pages_build_output_dir = "./public"
+
+# Optional: If you add an API later
+# [routes]
+# pattern = "/api/*"
+# script = "safetyplace-api"
+
+# Optional KV, Durable Objects, etc. can be added later
